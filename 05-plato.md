@@ -8,16 +8,16 @@ Previous: [Chapter 4 — Socrates and the Sophists](04-socrates-and-the-sophists
 
 ## Required reading
 
-- Plato, *Meno* (tr. Benjamin Jowett), the whole dialogue: [readings/plato-meno-pg1643.epub](readings/plato-meno-pg1643.epub).
-- Plato, *Republic* (tr. Benjamin Jowett), Book 2 (357a–369b), Book 4 (427d–445e) and Books 5–7 (471c–521b): [readings/plato-republic-pg1497.epub](readings/plato-republic-pg1497.epub).
-- Plato, *Phaedo* (tr. Benjamin Jowett), 57a–84b and 115b–118a: [readings/plato-phaedo-pg1658.epub](readings/plato-phaedo-pg1658.epub).
-- Plato, *Symposium* (tr. Benjamin Jowett), Aristophanes' speech and Diotima's teaching, 189c–193e and 201d–212a: [readings/plato-symposium-pg1600.epub](readings/plato-symposium-pg1600.epub).
+- Plato, *Meno* (tr. Benjamin Jowett), the whole dialogue: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-meno-pg1643.epub) [File](readings/plato-meno-pg1643.epub).
+- Plato, *Republic* (tr. Benjamin Jowett), Book 2 (357a–369b), Book 4 (427d–445e) and Books 5–7 (471c–521b): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-republic-pg1497.epub) [File](readings/plato-republic-pg1497.epub).
+- Plato, *Phaedo* (tr. Benjamin Jowett), 57a–84b and 115b–118a: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-phaedo-pg1658.epub) [File](readings/plato-phaedo-pg1658.epub).
+- Plato, *Symposium* (tr. Benjamin Jowett), Aristophanes' speech and Diotima's teaching, 189c–193e and 201d–212a: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-symposium-pg1600.epub) [File](readings/plato-symposium-pg1600.epub).
 
 Further reading:
 
-- Plato, *Phaedrus* (tr. Jowett), the charioteer (246a–257b) and the critique of writing (274b–278b): [readings/plato-phaedrus-pg1636.epub](readings/plato-phaedrus-pg1636.epub).
-- Plato, *Parmenides* (tr. Jowett), 126a–135d, Plato's criticism of his own theory: [readings/plato-parmenides-pg1687.epub](readings/plato-parmenides-pg1687.epub).
-- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 3, the life of Plato: [readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
+- Plato, *Phaedrus* (tr. Jowett), the charioteer (246a–257b) and the critique of writing (274b–278b): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-phaedrus-pg1636.epub) [File](readings/plato-phaedrus-pg1636.epub).
+- Plato, *Parmenides* (tr. Jowett), 126a–135d, Plato's criticism of his own theory: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-parmenides-pg1687.epub) [File](readings/plato-parmenides-pg1687.epub).
+- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 3, the life of Plato: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-of-eminent-philosophers-pg57342.epub) [File](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
 - Julia Annas, *An Introduction to Plato's Republic* (Oxford University Press, 1981). **(procure yourself)**
 - Richard Kraut (ed.), *The Cambridge Companion to Plato* (Cambridge University Press, 1992). **(procure yourself)**
 - Karl Popper, *The Open Society and Its Enemies*, vol. 1, *The Spell of Plato* (Routledge, 1945), the most famous attack on Plato's politics. **(procure yourself)**

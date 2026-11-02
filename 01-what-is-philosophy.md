@@ -6,16 +6,16 @@ Previous: [Course overview](README.md). Next: [Chapter 2 — Logic and Argument]
 
 ## Required reading
 
-- Plato, *Apology* (tr. Benjamin Jowett): [readings/plato-apology-pg1656.epub](readings/plato-apology-pg1656.epub). Read the whole speech; it is short.
-- Bertrand Russell, *The Problems of Philosophy* (1912), Chapter I "Appearance and Reality" and Chapter XV "The Value of Philosophy": [readings/russell-problems-of-philosophy-pg5827.epub](readings/russell-problems-of-philosophy-pg5827.epub).
-- Plato, *Theaetetus* 155c–d and the "digression" 172c–177c (tr. Benjamin Jowett): [readings/plato-theaetetus-pg1726.epub](readings/plato-theaetetus-pg1726.epub).
+- Plato, *Apology* (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-apology-pg1656.epub) [File](readings/plato-apology-pg1656.epub). Read the whole speech; it is short.
+- Bertrand Russell, *The Problems of Philosophy* (1912), Chapter I "Appearance and Reality" and Chapter XV "The Value of Philosophy": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Frussell-problems-of-philosophy-pg5827.epub) [File](readings/russell-problems-of-philosophy-pg5827.epub).
+- Plato, *Theaetetus* 155c–d and the "digression" 172c–177c (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-theaetetus-pg1726.epub) [File](readings/plato-theaetetus-pg1726.epub).
 - Thomas Nagel, *What Does It All Mean? A Very Short Introduction to Philosophy* (Oxford University Press, 1987), the whole book (about 100 pages). **(procure yourself)**
 
 Further reading:
 
-- David Hume, *An Enquiry Concerning Human Understanding* (1748), Section I "Of the Different Species of Philosophy": [readings/hume-enquiry-concerning-human-understanding-pg9662.epub](readings/hume-enquiry-concerning-human-understanding-pg9662.epub).
-- Diogenes Laertius, *Lives of Eminent Philosophers*, Prologue (tr. C. D. Yonge): [readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
-- Arthur Schopenhauer, "On Thinking for Oneself," in *The Art of Literature* (tr. T. Bailey Saunders), a short essay on reading versus thinking: [readings/schopenhauer-art-of-literature-pg10714.epub](readings/schopenhauer-art-of-literature-pg10714.epub).
+- David Hume, *An Enquiry Concerning Human Understanding* (1748), Section I "Of the Different Species of Philosophy": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fhume-enquiry-concerning-human-understanding-pg9662.epub) [File](readings/hume-enquiry-concerning-human-understanding-pg9662.epub).
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Prologue (tr. C. D. Yonge): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-of-eminent-philosophers-pg57342.epub) [File](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
+- Arthur Schopenhauer, "On Thinking for Oneself," in *The Art of Literature* (tr. T. Bailey Saunders), a short essay on reading versus thinking: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fschopenhauer-art-of-literature-pg10714.epub) [File](readings/schopenhauer-art-of-literature-pg10714.epub).
 - Pierre Hadot, *What Is Ancient Philosophy?*, tr. Michael Chase (Harvard University Press, 2002), Part One. **(procure yourself)**
 - Timothy Williamson, *Doing Philosophy: From Common Curiosity to Logical Reasoning* (Oxford University Press, 2018). **(procure yourself)**
 

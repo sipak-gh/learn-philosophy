@@ -8,16 +8,16 @@ Previous: [Chapter 6 — Aristotle](06-aristotle.md). Next: [Chapter 8 — Class
 
 ## Required reading
 
-- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 10: Epicurus' *Letter to Menoeceus* and the *Principal Doctrines*; and Book 6, the life of Diogenes the Cynic: [readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
-- Lucretius, *On the Nature of Things* (tr. William Ellery Leonard), Book 1 to the end of the proem, and Book 3 from "Folly of the Fear of Death" to the end: [readings/lucretius-on-the-nature-of-things-pg785.epub](readings/lucretius-on-the-nature-of-things-pg785.epub).
-- Epictetus, *The Enchiridion* (tr. Thomas Wentworth Higginson), chapters 1–10: [readings/epictetus-enchiridion-pg45109.epub](readings/epictetus-enchiridion-pg45109.epub).
-- Sextus Empiricus, *Outlines of Pyrrhonism*, Book 1, chapters 1–14, in Mary Mills Patrick's translation, included in her *Sextus Empiricus and Greek Scepticism* (1899): [readings/patrick-sextus-empiricus-pg17556.epub](readings/patrick-sextus-empiricus-pg17556.epub).
+- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 10: Epicurus' *Letter to Menoeceus* and the *Principal Doctrines*; and Book 6, the life of Diogenes the Cynic: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-of-eminent-philosophers-pg57342.epub) [File](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
+- Lucretius, *On the Nature of Things* (tr. William Ellery Leonard), Book 1 to the end of the proem, and Book 3 from "Folly of the Fear of Death" to the end: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Flucretius-on-the-nature-of-things-pg785.epub) [File](readings/lucretius-on-the-nature-of-things-pg785.epub).
+- Epictetus, *The Enchiridion* (tr. Thomas Wentworth Higginson), chapters 1–10: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fepictetus-enchiridion-pg45109.epub) [File](readings/epictetus-enchiridion-pg45109.epub).
+- Sextus Empiricus, *Outlines of Pyrrhonism*, Book 1, chapters 1–14, in Mary Mills Patrick's translation, included in her *Sextus Empiricus and Greek Scepticism* (1899): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fpatrick-sextus-empiricus-pg17556.epub) [File](readings/patrick-sextus-empiricus-pg17556.epub).
 
 Further reading:
 
 - Diogenes Laertius, same edition, Book 7 (Zeno and the Stoics) and Book 9 (Pyrrho and Timon).
-- Marcus Aurelius, *Meditations* (tr. Meric Casaubon), Books 2 and 4: [readings/marcus-aurelius-meditations-pg2680.epub](readings/marcus-aurelius-meditations-pg2680.epub).
-- Cicero, *Tusculan Disputations* (tr. C. D. Yonge), Book 3, and *On the Nature of the Gods*, Book 1, in the same volume: [readings/cicero-tusculan-disputations-pg14988.epub](readings/cicero-tusculan-disputations-pg14988.epub).
+- Marcus Aurelius, *Meditations* (tr. Meric Casaubon), Books 2 and 4: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fmarcus-aurelius-meditations-pg2680.epub) [File](readings/marcus-aurelius-meditations-pg2680.epub).
+- Cicero, *Tusculan Disputations* (tr. C. D. Yonge), Book 3, and *On the Nature of the Gods*, Book 1, in the same volume: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fcicero-tusculan-disputations-pg14988.epub) [File](readings/cicero-tusculan-disputations-pg14988.epub).
 - A. A. Long and D. N. Sedley, *The Hellenistic Philosophers*, vol. 1 (Cambridge University Press, 1987), the standard sourcebook. **(procure yourself)**
 - Pierre Hadot, *Philosophy as a Way of Life*, ed. Arnold Davidson (Blackwell, 1995). **(procure yourself)**
 - Martha Nussbaum, *The Therapy of Desire* (Princeton University Press, 1994). **(procure yourself)**

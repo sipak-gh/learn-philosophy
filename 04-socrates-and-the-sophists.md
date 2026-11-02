@@ -6,17 +6,17 @@ Previous: [Chapter 3 — The Presocratics](03-the-presocratics.md). Next: [Chapt
 
 ## Required reading
 
-- Plato, *Euthyphro* (tr. Benjamin Jowett), the whole dialogue: [readings/plato-euthyphro-pg1642.epub](readings/plato-euthyphro-pg1642.epub).
-- Plato, *Apology* (tr. Benjamin Jowett), the whole dialogue: [readings/plato-apology-pg1656.epub](readings/plato-apology-pg1656.epub).
-- Plato, *Crito* (tr. Benjamin Jowett), the whole dialogue: [readings/plato-crito-pg1657.epub](readings/plato-crito-pg1657.epub).
-- Plato, *Protagoras* 309a–328d, including Protagoras' "Great Speech" (tr. Benjamin Jowett): [readings/plato-protagoras-pg1591.epub](readings/plato-protagoras-pg1591.epub).
-- Plato, *Gorgias* 447a–466a and 481b–492c, Socrates against Gorgias and Callicles (tr. Benjamin Jowett): [readings/plato-gorgias-pg1672.epub](readings/plato-gorgias-pg1672.epub).
+- Plato, *Euthyphro* (tr. Benjamin Jowett), the whole dialogue: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-euthyphro-pg1642.epub) [File](readings/plato-euthyphro-pg1642.epub).
+- Plato, *Apology* (tr. Benjamin Jowett), the whole dialogue: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-apology-pg1656.epub) [File](readings/plato-apology-pg1656.epub).
+- Plato, *Crito* (tr. Benjamin Jowett), the whole dialogue: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-crito-pg1657.epub) [File](readings/plato-crito-pg1657.epub).
+- Plato, *Protagoras* 309a–328d, including Protagoras' "Great Speech" (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-protagoras-pg1591.epub) [File](readings/plato-protagoras-pg1591.epub).
+- Plato, *Gorgias* 447a–466a and 481b–492c, Socrates against Gorgias and Callicles (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-gorgias-pg1672.epub) [File](readings/plato-gorgias-pg1672.epub).
 
 Further reading:
 
-- Xenophon, *Memorabilia* (tr. H. G. Dakyns), Book 1, a second, plainer portrait of Socrates: [readings/xenophon-memorabilia-pg1177.epub](readings/xenophon-memorabilia-pg1177.epub).
-- Cicero, *Tusculan Disputations* (tr. C. D. Yonge), Book 5, sections 1–11, on philosophy as the guide of life: [readings/cicero-tusculan-disputations-pg14988.epub](readings/cicero-tusculan-disputations-pg14988.epub).
-- Plato, *Theaetetus* 151d–172c, on Protagoras' "man is the measure" (tr. Jowett): [readings/plato-theaetetus-pg1726.epub](readings/plato-theaetetus-pg1726.epub).
+- Xenophon, *Memorabilia* (tr. H. G. Dakyns), Book 1, a second, plainer portrait of Socrates: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fxenophon-memorabilia-pg1177.epub) [File](readings/xenophon-memorabilia-pg1177.epub).
+- Cicero, *Tusculan Disputations* (tr. C. D. Yonge), Book 5, sections 1–11, on philosophy as the guide of life: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fcicero-tusculan-disputations-pg14988.epub) [File](readings/cicero-tusculan-disputations-pg14988.epub).
+- Plato, *Theaetetus* 151d–172c, on Protagoras' "man is the measure" (tr. Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-theaetetus-pg1726.epub) [File](readings/plato-theaetetus-pg1726.epub).
 - Gregory Vlastos, *Socrates: Ironist and Moral Philosopher* (Cornell University Press, 1991). **(procure yourself)**
 - John Dillon and Tania Gergel (trs.), *The Greek Sophists* (Penguin, 2003), the surviving texts, including Gorgias' *Encomium of Helen* and *On What Is Not*. **(procure yourself)**
 - Robin Waterfield, *Why Socrates Died: Dispelling the Myths* (W. W. Norton, 2009). **(procure yourself)**

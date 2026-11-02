@@ -6,16 +6,16 @@ Previous: [Chapter 1 — What Is Philosophy?](01-what-is-philosophy.md). Next: [
 
 ## Required reading
 
-- Arthur Schopenhauer, *The Art of Controversy* (tr. T. Bailey Saunders), the whole essay: [readings/schopenhauer-art-of-controversy-pg10731.epub](readings/schopenhauer-art-of-controversy-pg10731.epub).
-- David Hume, *An Enquiry Concerning Human Understanding*, Section IV "Sceptical Doubts Concerning the Operations of the Understanding": [readings/hume-enquiry-concerning-human-understanding-pg9662.epub](readings/hume-enquiry-concerning-human-understanding-pg9662.epub).
-- Bertrand Russell, *The Problems of Philosophy*, Chapter VI "On Induction": [readings/russell-problems-of-philosophy-pg5827.epub](readings/russell-problems-of-philosophy-pg5827.epub).
-- Plato, *Theaetetus* 148e–151d, Socrates the midwife (tr. Benjamin Jowett): [readings/plato-theaetetus-pg1726.epub](readings/plato-theaetetus-pg1726.epub).
+- Arthur Schopenhauer, *The Art of Controversy* (tr. T. Bailey Saunders), the whole essay: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fschopenhauer-art-of-controversy-pg10731.epub) [File](readings/schopenhauer-art-of-controversy-pg10731.epub).
+- David Hume, *An Enquiry Concerning Human Understanding*, Section IV "Sceptical Doubts Concerning the Operations of the Understanding": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fhume-enquiry-concerning-human-understanding-pg9662.epub) [File](readings/hume-enquiry-concerning-human-understanding-pg9662.epub).
+- Bertrand Russell, *The Problems of Philosophy*, Chapter VI "On Induction": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Frussell-problems-of-philosophy-pg5827.epub) [File](readings/russell-problems-of-philosophy-pg5827.epub).
+- Plato, *Theaetetus* 148e–151d, Socrates the midwife (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-theaetetus-pg1726.epub) [File](readings/plato-theaetetus-pg1726.epub).
 - Anthony Weston, *A Rulebook for Arguments*, 5th ed. (Hackett, 2017), the whole book (under 100 pages). **(procure yourself)**
 
 Further reading:
 
-- John Stuart Mill, *A System of Logic* (8th ed., 1872), Book II Ch. III, Book III Ch. VIII, Book V Ch. I: [readings/mill-system-of-logic-pg27942.epub](readings/mill-system-of-logic-pg27942.epub).
-- A. E. Taylor, *Aristotle* (1919), the chapter on logic: [readings/taylor-aristotle-pg48002.epub](readings/taylor-aristotle-pg48002.epub).
+- John Stuart Mill, *A System of Logic* (8th ed., 1872), Book II Ch. III, Book III Ch. VIII, Book V Ch. I: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fmill-system-of-logic-pg27942.epub) [File](readings/mill-system-of-logic-pg27942.epub).
+- A. E. Taylor, *Aristotle* (1919), the chapter on logic: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Ftaylor-aristotle-pg48002.epub) [File](readings/taylor-aristotle-pg48002.epub).
 - Graham Priest, *Logic: A Very Short Introduction*, 2nd ed. (Oxford University Press, 2017). **(procure yourself)**
 - Daniel C. Dennett, *Intuition Pumps and Other Tools for Thinking* (W. W. Norton, 2013). **(procure yourself)**
 

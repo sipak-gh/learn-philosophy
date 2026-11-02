@@ -8,19 +8,19 @@ Previous: [Chapter 7 — Hellenistic Philosophy](07-hellenistic-philosophy.md). 
 
 ## Required reading
 
-- *The Upanishads* (tr. Swami Paramananda), the *Katha Upanishad*: [readings/upanishads-paramananda-pg3283.epub](readings/upanishads-paramananda-pg3283.epub).
-- *The Dhammapada* (tr. F. Max Müller), chapters 1, 14 and 20: [readings/dhammapada-muller-pg2017.epub](readings/dhammapada-muller-pg2017.epub).
-- Confucius, *The Analects* (tr. James Legge), Books 2, 4, 12, 13 and 15: [readings/confucius-analects-pg3330.epub](readings/confucius-analects-pg3330.epub).
-- Laozi, *The Tao Teh King* (tr. James Legge), chapters 1–20: [readings/laozi-tao-teh-king-legge-pg216.epub](readings/laozi-tao-teh-king-legge-pg216.epub).
-- Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer* (tr. Herbert A. Giles), chapters 2, 3, 17 and 18: [readings/zhuangzi-chuang-tzu-giles-pg59709.epub](readings/zhuangzi-chuang-tzu-giles-pg59709.epub).
+- *The Upanishads* (tr. Swami Paramananda), the *Katha Upanishad*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fupanishads-paramananda-pg3283.epub) [File](readings/upanishads-paramananda-pg3283.epub).
+- *The Dhammapada* (tr. F. Max Müller), chapters 1, 14 and 20: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdhammapada-muller-pg2017.epub) [File](readings/dhammapada-muller-pg2017.epub).
+- Confucius, *The Analects* (tr. James Legge), Books 2, 4, 12, 13 and 15: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fconfucius-analects-pg3330.epub) [File](readings/confucius-analects-pg3330.epub).
+- Laozi, *The Tao Teh King* (tr. James Legge), chapters 1–20: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Flaozi-tao-teh-king-legge-pg216.epub) [File](readings/laozi-tao-teh-king-legge-pg216.epub).
+- Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer* (tr. Herbert A. Giles), chapters 2, 3, 17 and 18: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fzhuangzi-chuang-tzu-giles-pg59709.epub) [File](readings/zhuangzi-chuang-tzu-giles-pg59709.epub).
 
 Further reading:
 
-- Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 1 (1922), chapters 3–5 (the Upanishads, Buddhism, the classification of the systems): [readings/dasgupta-history-of-indian-philosophy-vol1-pg12956.epub](readings/dasgupta-history-of-indian-philosophy-vol1-pg12956.epub).
-- Charles Eliot, *Hinduism and Buddhism*, vol. 1 (1921), Books 2 and 3 (the Upanishads, the Buddha's teaching): [readings/eliot-hinduism-and-buddhism-vol1-pg15255.epub](readings/eliot-hinduism-and-buddhism-vol1-pg15255.epub).
-- Mādhava, *The Sarva-Darśana-Saṃgraha* (tr. E. B. Cowell and A. E. Gough), chapter 1, the Cārvāka system: [readings/madhava-sarva-darsana-samgraha-pg34125.epub](readings/madhava-sarva-darsana-samgraha-pg34125.epub).
-- Mencius, Book 1, Part 1 (tr. James Legge), in Epiphanius Wilson, ed., *Chinese Literature*: [readings/wilson-chinese-literature-pg10056.epub](readings/wilson-chinese-literature-pg10056.epub).
-- Herbert A. Giles, *A History of Chinese Literature* (1901), Books 1 and 2 (Confucius, Mencius, Mo Ti, Hsün Tzŭ, Lao Tzŭ, Chuang Tzŭ): [readings/giles-history-of-chinese-literature-pg43711.epub](readings/giles-history-of-chinese-literature-pg43711.epub).
+- Surendranath Dasgupta, *A History of Indian Philosophy*, vol. 1 (1922), chapters 3–5 (the Upanishads, Buddhism, the classification of the systems): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdasgupta-history-of-indian-philosophy-vol1-pg12956.epub) [File](readings/dasgupta-history-of-indian-philosophy-vol1-pg12956.epub).
+- Charles Eliot, *Hinduism and Buddhism*, vol. 1 (1921), Books 2 and 3 (the Upanishads, the Buddha's teaching): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Feliot-hinduism-and-buddhism-vol1-pg15255.epub) [File](readings/eliot-hinduism-and-buddhism-vol1-pg15255.epub).
+- Mādhava, *The Sarva-Darśana-Saṃgraha* (tr. E. B. Cowell and A. E. Gough), chapter 1, the Cārvāka system: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fmadhava-sarva-darsana-samgraha-pg34125.epub) [File](readings/madhava-sarva-darsana-samgraha-pg34125.epub).
+- Mencius, Book 1, Part 1 (tr. James Legge), in Epiphanius Wilson, ed., *Chinese Literature*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fwilson-chinese-literature-pg10056.epub) [File](readings/wilson-chinese-literature-pg10056.epub).
+- Herbert A. Giles, *A History of Chinese Literature* (1901), Books 1 and 2 (Confucius, Mencius, Mo Ti, Hsün Tzŭ, Lao Tzŭ, Chuang Tzŭ): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fgiles-history-of-chinese-literature-pg43711.epub) [File](readings/giles-history-of-chinese-literature-pg43711.epub).
 - Philip J. Ivanhoe and Bryan W. Van Norden, eds., *Readings in Classical Chinese Philosophy*, 2nd ed. (Hackett, 2005), for Mozi, the full Mencius and Xunzi. **(procure yourself)**
 - Nāgārjuna, *The Fundamental Wisdom of the Middle Way*, tr. Jay L. Garfield (Oxford University Press, 1995). **(procure yourself)**
 

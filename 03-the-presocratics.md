@@ -6,16 +6,16 @@ Previous: [Chapter 2 — Logic and Argument](02-logic-and-argument.md). Next: [C
 
 ## Required reading
 
-- John Burnet, *Early Greek Philosophy* (3rd ed., 1920), the Introduction and the chapters on the Milesians, Herakleitos, Parmenides, the Eleatic Zeno and Leukippos. Burnet translates every surviving fragment: [readings/burnet-early-greek-philosophy-pg67097.epub](readings/burnet-early-greek-philosophy-pg67097.epub).
-- Plato, *Phaedo* 96a–99d, Socrates' intellectual autobiography and his disappointment with Anaxagoras (tr. Benjamin Jowett): [readings/plato-phaedo-pg1658.epub](readings/plato-phaedo-pg1658.epub).
-- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 1 §§22–44 (Thales) and Book 9 §§1–49 (Heraclitus, Xenophanes, Parmenides, Zeno, Leucippus, Democritus). Read it for flavor, not as history: [readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
+- John Burnet, *Early Greek Philosophy* (3rd ed., 1920), the Introduction and the chapters on the Milesians, Herakleitos, Parmenides, the Eleatic Zeno and Leukippos. Burnet translates every surviving fragment: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fburnet-early-greek-philosophy-pg67097.epub) [File](readings/burnet-early-greek-philosophy-pg67097.epub).
+- Plato, *Phaedo* 96a–99d, Socrates' intellectual autobiography and his disappointment with Anaxagoras (tr. Benjamin Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-phaedo-pg1658.epub) [File](readings/plato-phaedo-pg1658.epub).
+- Diogenes Laertius, *Lives of Eminent Philosophers* (tr. C. D. Yonge), Book 1 §§22–44 (Thales) and Book 9 §§1–49 (Heraclitus, Xenophanes, Parmenides, Zeno, Leucippus, Democritus). Read it for flavor, not as history: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-of-eminent-philosophers-pg57342.epub) [File](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub).
 - G. S. Kirk, J. E. Raven and M. Schofield, *The Presocratic Philosophers*, 2nd ed. (Cambridge University Press, 1983), the chapters on Parmenides and Zeno. **(procure yourself)**
 
 Further reading:
 
-- Plato, *Parmenides* 127a–128e, Zeno explains why he wrote his book (tr. Jowett): [readings/plato-parmenides-pg1687.epub](readings/plato-parmenides-pg1687.epub).
-- Herodotus, *The Histories* (tr. G. C. Macaulay), Book 1 §§74–75, on Thales and the eclipse: [readings/herodotus-histories-vol1-pg2707.epub](readings/herodotus-histories-vol1-pg2707.epub).
-- Lucretius, *On the Nature of Things* (tr. William Ellery Leonard), Book 1, the Roman epic of atomism: [readings/lucretius-on-the-nature-of-things-pg785.epub](readings/lucretius-on-the-nature-of-things-pg785.epub).
+- Plato, *Parmenides* 127a–128e, Zeno explains why he wrote his book (tr. Jowett): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fplato-parmenides-pg1687.epub) [File](readings/plato-parmenides-pg1687.epub).
+- Herodotus, *The Histories* (tr. G. C. Macaulay), Book 1 §§74–75, on Thales and the eclipse: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Fherodotus-histories-vol1-pg2707.epub) [File](readings/herodotus-histories-vol1-pg2707.epub).
+- Lucretius, *On the Nature of Things* (tr. William Ellery Leonard), Book 1, the Roman epic of atomism: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-philosophy%2Fmaster%2Freadings%2Flucretius-on-the-nature-of-things-pg785.epub) [File](readings/lucretius-on-the-nature-of-things-pg785.epub).
 - Jonathan Barnes (ed. and tr.), *Early Greek Philosophy*, 2nd ed. (Penguin, 2001), a readable modern translation of the fragments. **(procure yourself)**
 - Patricia Curd and Daniel W. Graham (eds.), *The Oxford Handbook of Presocratic Philosophy* (Oxford University Press, 2008). **(procure yourself)**
 
