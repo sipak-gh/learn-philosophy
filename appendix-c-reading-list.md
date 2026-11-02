@@ -1,0 +1,282 @@
+# Appendix C — Reading List
+
+Everything the course asks you to read, in one place, in three parts: the public-domain books bundled in [readings/](readings/README.md), the books you need to procure yourself (with recommended editions), and a path into the scholarly literature for readers who want to go on to graduate level. Previous: [Appendix B — Timeline](appendix-b-timeline.md). Next: [Course overview](README.md).
+
+## Part 1 — Bundled readings
+
+All 148 are Project Gutenberg editions (147 EPUBs and one PDF); [readings/README.md](readings/README.md) gives the translator, Gutenberg number, license notes and every chapter that uses each one. They are grouped here by the part of the course where they are first assigned.
+
+**Foundations and ancient philosophy (Chapters 1–8)**
+
+- [Aristotle, *Categories*](readings/aristotle-categories-pg2412.epub), tr. E. M. Edghill
+- [Aristotle, *The Nicomachean Ethics*](readings/aristotle-nicomachean-ethics-pg8438.epub), tr. D. P. Chase
+- [Aristotle, *Poetics*](readings/aristotle-poetics-pg1974.epub), tr. S. H. Butcher
+- [Aristotle, *Politics*](readings/aristotle-politics-pg6762.epub), tr. William Ellis
+- [John Burnet, *Early Greek Philosophy (3rd ed.)*](readings/burnet-early-greek-philosophy-pg67097.epub)
+- [Marcus Tullius Cicero, *Tusculan Disputations*](readings/cicero-tusculan-disputations-pg14988.epub), tr. C. D. Yonge
+- [Confucius, *The Analects*](readings/confucius-analects-pg3330.epub), tr. James Legge
+- [Dante Alighieri, *Divine Comedy: Hell*](readings/dante-inferno-pg1001.epub), tr. Henry Wadsworth Longfellow
+- [Charles Darwin, *The Life and Letters of Charles Darwin, Volume 2*](readings/darwin-life-and-letters-vol2-pg2088.epub)
+- [Charles Darwin, *On the Origin of Species (6th ed.)*](readings/darwin-origin-of-species-pg2009.epub)
+- [Surendranath Dasgupta, *A History of Indian Philosophy, Volume 1*](readings/dasgupta-history-of-indian-philosophy-vol1-pg12956.epub)
+- [Anonymous (Buddhist canon), *The Dhammapada*](readings/dhammapada-muller-pg2017.epub), tr. F. Max Müller
+- [Diogenes Laertius, *The Lives and Opinions of Eminent Philosophers*](readings/diogenes-laertius-lives-of-eminent-philosophers-pg57342.epub), tr. C. D. Yonge
+- [Charles Eliot, *Hinduism and Buddhism, Vol. 1*](readings/eliot-hinduism-and-buddhism-vol1-pg15255.epub)
+- [Epictetus, *The Enchiridion*](readings/epictetus-enchiridion-pg45109.epub), tr. Thomas Wentworth Higginson
+- [Herbert A. Giles, *A History of Chinese Literature*](readings/giles-history-of-chinese-literature-pg43711.epub)
+- [Herodotus, *The History of Herodotus, Volume 1*](readings/herodotus-histories-vol1-pg2707.epub), tr. G. C. Macaulay
+- [David Hume, *An Enquiry Concerning Human Understanding*](readings/hume-enquiry-concerning-human-understanding-pg9662.epub)
+- [Laozi, *The Tao Teh King, or the Tao and its Characteristics*](readings/laozi-tao-teh-king-legge-pg216.epub), tr. James Legge
+- [Lucretius, *On the Nature of Things*](readings/lucretius-on-the-nature-of-things-pg785.epub), tr. William Ellery Leonard
+- [Mādhava Āchārya, *The Sarva-Darsana-Samgraha*](readings/madhava-sarva-darsana-samgraha-pg34125.epub), tr. E. B. Cowell and A. E. Gough
+- [Marcus Aurelius, *Meditations*](readings/marcus-aurelius-meditations-pg2680.epub), tr. Meric Casaubon
+- [John Stuart Mill, *A System of Logic, Ratiocinative and Inductive (8th ed.)*](readings/mill-system-of-logic-pg27942.epub)
+- [Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism*](readings/patrick-sextus-empiricus-pg17556.epub)
+- [Plato, *Apology*](readings/plato-apology-pg1656.epub), tr. Benjamin Jowett
+- [Plato, *Crito*](readings/plato-crito-pg1657.epub), tr. Benjamin Jowett
+- [Plato, *Euthyphro*](readings/plato-euthyphro-pg1642.epub), tr. Benjamin Jowett
+- [Plato, *Gorgias*](readings/plato-gorgias-pg1672.epub), tr. Benjamin Jowett
+- [Plato, *Meno*](readings/plato-meno-pg1643.epub), tr. Benjamin Jowett
+- [Plato, *Parmenides*](readings/plato-parmenides-pg1687.epub), tr. Benjamin Jowett
+- [Plato, *Phaedo*](readings/plato-phaedo-pg1658.epub), tr. Benjamin Jowett
+- [Plato, *Phaedrus*](readings/plato-phaedrus-pg1636.epub), tr. Benjamin Jowett
+- [Plato, *Protagoras*](readings/plato-protagoras-pg1591.epub), tr. Benjamin Jowett
+- [Plato, *The Republic*](readings/plato-republic-pg1497.epub), tr. Benjamin Jowett
+- [Plato, *Symposium*](readings/plato-symposium-pg1600.epub), tr. Benjamin Jowett
+- [Plato, *Theaetetus*](readings/plato-theaetetus-pg1726.epub), tr. Benjamin Jowett
+- [Bertrand Russell, *The Problems of Philosophy*](readings/russell-problems-of-philosophy-pg5827.epub)
+- [Arthur Schopenhauer, *The Art of Controversy*](readings/schopenhauer-art-of-controversy-pg10731.epub), tr. T. Bailey Saunders
+- [Arthur Schopenhauer, *The Art of Literature*](readings/schopenhauer-art-of-literature-pg10714.epub), tr. T. Bailey Saunders
+- [A. E. Taylor, *Aristotle*](readings/taylor-aristotle-pg48002.epub)
+- [Anonymous, *The Upanishads*](readings/upanishads-paramananda-pg3283.epub), tr. Swami Paramananda
+- [Epiphanius Wilson (ed.), *Chinese Literature*](readings/wilson-chinese-literature-pg10056.epub), tr. James Legge et al.
+- [Xenophon, *The Memorabilia*](readings/xenophon-memorabilia-pg1177.epub), tr. H. G. Dakyns
+- [Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer*](readings/zhuangzi-chuang-tzu-giles-pg59709.epub), tr. Herbert A. Giles
+
+**Medieval and Renaissance (Chapters 9–10)**
+
+- [Thomas Aquinas, *Summa Theologica, Part I-II (Pars Prima Secundae)*](readings/aquinas-summa-theologica-part1-2-pg17897.epub), tr. Fathers of the English Dominican Province
+- [Thomas Aquinas, *Summa Theologica, Part I (Prima Pars)*](readings/aquinas-summa-theologica-part1-pg17611.epub), tr. Fathers of the English Dominican Province
+- [Augustine of Hippo, *The City of God, Volume I*](readings/augustine-city-of-god-vol1-pg45304.epub), tr. Marcus Dods
+- [Augustine of Hippo, *The City of God, Volume II*](readings/augustine-city-of-god-vol2-pg45305.epub), tr. Marcus Dods
+- [Augustine of Hippo, *The Confessions of Saint Augustine*](readings/augustine-confessions-pg3296.epub), tr. Edward Bouverie Pusey
+- [Averroes, *The Philosophy and Theology of Averroes*](readings/averroes-philosophy-and-theology-pg65708.epub), tr. Mohammad Jamil-ur-Rehman
+- [Avicenna, *A Compendium on the Soul*](readings/avicenna-compendium-on-the-soul-pg58186.epub), tr. Edward Abbott van Dyck
+- [Francis Bacon, *The Essays or Counsels, Civil and Moral*](readings/bacon-essays-pg575.epub)
+- [Francis Bacon, *Novum Organum*](readings/bacon-novum-organum-pg45988.epub), ed. Joseph Devey
+- [Boethius, *The Consolation of Philosophy*](readings/boethius-consolation-of-philosophy-pg14328.epub), tr. H. R. James
+- [Desiderius Erasmus, *The Praise of Folly*](readings/erasmus-praise-of-folly-pg9371.epub), tr. John Wilson
+- [Galileo Galilei, *The Sidereal Messenger*](readings/galileo-sidereal-messenger-pg46036.epub), tr. Edward Stafford Carlos
+- [Thomas Hobbes, *Leviathan*](readings/hobbes-leviathan-pg3207.epub)
+- [Niccolò Machiavelli, *Discourses on the First Decade of Titus Livius*](readings/machiavelli-discourses-on-livy-pg10827.epub), tr. Ninian Hill Thomson
+- [Niccolò Machiavelli, *The Prince*](readings/machiavelli-the-prince-pg1232.epub), tr. W. K. Marriott
+- [Moses Maimonides, *The Guide for the Perplexed*](readings/maimonides-guide-for-the-perplexed-pg73584.epub), tr. M. Friedländer
+- [Michel de Montaigne, *Essays of Michel de Montaigne (Complete)*](readings/montaigne-essays-pg3600.epub), tr. Charles Cotton, rev. William Carew Hazlitt
+- [Thomas More, *Utopia*](readings/more-utopia-pg2130.epub), tr. Gilbert Burnet
+- [Francesco Petrarca, *Petrarch, the First Modern Scholar and Man of Letters*](readings/petrarch-first-modern-scholar-pg48776.epub), tr. James Harvey Robinson
+
+**Early modern philosophy (Chapters 11–13)**
+
+- [George Berkeley, *A Treatise Concerning the Principles of Human Knowledge*](readings/berkeley-principles-of-human-knowledge-pg4723.epub)
+- [George Berkeley, *Three Dialogues between Hylas and Philonous*](readings/berkeley-three-dialogues-pg4724.epub)
+- [René Descartes, *Discourse on the Method*](readings/descartes-discourse-on-method-pg59.epub), tr. John Veitch
+- [René Descartes, *Selections from the Principles of Philosophy*](readings/descartes-principles-of-philosophy-pg4391.epub), tr. John Veitch
+- [René Descartes, *Six Metaphysical Meditations (with Hobbes's objections)*](readings/descartes-six-metaphysical-meditations-pg70091.epub), tr. William Molyneux (1680)
+- [David Hume, *Dialogues Concerning Natural Religion*](readings/hume-dialogues-concerning-natural-religion-pg4583.epub)
+- [David Hume, *A Treatise of Human Nature*](readings/hume-treatise-of-human-nature-pg4705.epub)
+- [Immanuel Kant, *Critique of Judgement*](readings/kant-critique-of-judgement-pg48433.epub), tr. J. H. Bernard
+- [Immanuel Kant, *The Critique of Practical Reason*](readings/kant-critique-of-practical-reason-pg5683.epub), tr. Thomas Kingsmill Abbott
+- [Immanuel Kant, *The Critique of Pure Reason*](readings/kant-critique-of-pure-reason-pg4280.epub), tr. J. M. D. Meiklejohn
+- [Immanuel Kant, *Fundamental Principles of the Metaphysic of Morals*](readings/kant-fundamental-principles-of-the-metaphysic-of-morals-pg5682.epub), tr. Thomas Kingsmill Abbott
+- [Immanuel Kant, *Perpetual Peace: A Philosophical Essay*](readings/kant-perpetual-peace-pg50922.epub), tr. M. Campbell Smith
+- [Immanuel Kant, *Prolegomena to Any Future Metaphysics*](readings/kant-prolegomena-pg52821.epub), tr. Paul Carus
+- [Immanuel Kant, *Beantwortung der Frage: Was ist Aufklärung? (German)*](readings/kant-was-ist-aufklaerung-de-pg30821.epub) (German original)
+- [G. W. Leibniz, *La monadologie (French, ed. Clodius Piat)*](readings/leibniz-monadologie-french-pg17641.epub) (French original)
+- [G. W. Leibniz, *Theodicy*](readings/leibniz-theodicy-pg17147.epub), tr. E. M. Huggard
+- [John Locke, *An Essay Concerning Humane Understanding, Vol. 1*](readings/locke-essay-concerning-humane-understanding-vol1-pg10615.epub)
+- [John Locke, *An Essay Concerning Humane Understanding, Vol. 2*](readings/locke-essay-concerning-humane-understanding-vol2-pg10616.epub)
+- [Blaise Pascal, *Pensées*](readings/pascal-pensees-pg18269.epub), tr. W. F. Trotter
+- [Benedict de Spinoza, *Ethics*](readings/spinoza-ethics-pg3800.epub), tr. R. H. M. Elwes
+- [Benedict de Spinoza, *On the Improvement of the Understanding*](readings/spinoza-improvement-of-the-understanding-pg1016.epub), tr. R. H. M. Elwes
+
+**The nineteenth century (Chapters 14–16)**
+
+- [Friedrich Engels, *Feuerbach: The Roots of the Socialist Philosophy (with Marx's Theses on Feuerbach)*](readings/engels-feuerbach-pg27814.epub), tr. Austin Lewis
+- [Friedrich Engels, *Socialism, Utopian and Scientific*](readings/engels-socialism-utopian-and-scientific-pg39257.epub), tr. Edward Aveling
+- [Ludwig Feuerbach, *The Essence of Christianity*](readings/feuerbach-essence-of-christianity-pg47025.epub), tr. George Eliot
+- [Harriet Taylor Mill, *Enfranchisement of Women*](readings/harriet-taylor-mill-enfranchisement-of-women-pg73404.epub)
+- [G. W. F. Hegel, *Lectures on the History of Philosophy, Vol. 1*](readings/hegel-lectures-history-of-philosophy-vol1-pg51635.epub), tr. E. S. Haldane
+- [G. W. F. Hegel, *The Logic of Hegel*](readings/hegel-logic-pg55108.epub), tr. William Wallace
+- [G. W. F. Hegel, *Hegel's Philosophy of Mind*](readings/hegel-philosophy-of-mind-pg39064.epub), tr. William Wallace
+- [Søren Kierkegaard, *Selections from the Writings of Kierkegaard*](readings/kierkegaard-selections-pg60333.epub), tr. Lee M. Hollander
+- [Karl Marx, *A Contribution to the Critique of Political Economy*](readings/marx-critique-of-political-economy-pg46423.epub), tr. N. I. Stone
+- [Karl Marx, *The Eighteenth Brumaire of Louis Bonaparte*](readings/marx-eighteenth-brumaire-pg1346.epub), tr. Daniel De Leon
+- [Karl Marx and Friedrich Engels, *The Communist Manifesto*](readings/marx-engels-communist-manifesto-pg61.epub), tr. Samuel Moore
+- [John Stuart Mill, *Autobiography*](readings/mill-autobiography-pg10378.epub)
+- [John Stuart Mill, *On Liberty*](readings/mill-on-liberty-pg34901.epub)
+- [John Stuart Mill, *The Subjection of Women*](readings/mill-subjection-of-women-pg27083.epub)
+- [John Stuart Mill, *Utilitarianism*](readings/mill-utilitarianism-pg11224.epub)
+- [Friedrich Nietzsche, *Beyond Good and Evil*](readings/nietzsche-beyond-good-and-evil-pg4363.epub), tr. Helen Zimmern
+- [Friedrich Nietzsche, *The Birth of Tragedy*](readings/nietzsche-birth-of-tragedy-pg51356.epub), tr. William A. Haussmann
+- [Friedrich Nietzsche, *Ecce Homo*](readings/nietzsche-ecce-homo-pg52190.epub), tr. Anthony M. Ludovici
+- [Friedrich Nietzsche, *The Genealogy of Morals*](readings/nietzsche-genealogy-of-morals-pg52319.epub), tr. Horace B. Samuel
+- [Friedrich Nietzsche, *The Joyful Wisdom*](readings/nietzsche-joyful-wisdom-pg52881.epub), tr. Thomas Common
+- [Friedrich Nietzsche, *Thus Spake Zarathustra*](readings/nietzsche-thus-spake-zarathustra-pg1998.epub), tr. Thomas Common
+- [Friedrich Nietzsche, *The Twilight of the Idols; The Antichrist*](readings/nietzsche-twilight-of-the-idols-and-antichrist-pg52263.epub), tr. Anthony M. Ludovici
+- [Arthur Schopenhauer, *The World as Will and Idea, Vol. 1*](readings/schopenhauer-world-as-will-and-idea-vol1-pg38427.epub), tr. R. B. Haldane and J. Kemp
+- [Alexis de Tocqueville, *Democracy in America, Vol. 1*](readings/tocqueville-democracy-in-america-vol1-pg815.epub), tr. Henry Reeve
+- [Mary Wollstonecraft, *A Vindication of the Rights of Men*](readings/wollstonecraft-vindication-of-the-rights-of-men-pg62757.epub)
+- [Mary Wollstonecraft, *A Vindication of the Rights of Woman*](readings/wollstonecraft-vindication-of-the-rights-of-woman-pg3420.epub)
+
+**The twentieth century and after (Chapters 17–24)**
+
+- [Jane Addams, *Democracy and Social Ethics*](readings/addams-democracy-and-social-ethics-pg15487.epub)
+- [Henri Bergson, *Time and Free Will*](readings/bergson-time-and-free-will-pg56852.epub), tr. F. L. Pogson
+- [William Kingdon Clifford, *The Scientific Basis of Morals, and Other Essays*](readings/clifford-scientific-basis-of-morals-pg50189.epub)
+- [John Dewey and others, *Creative Intelligence: Essays in the Pragmatic Attitude*](readings/dewey-creative-intelligence-pg33727.epub)
+- [John Dewey, *Democracy and Education*](readings/dewey-democracy-and-education-pg852.epub)
+- [John Dewey, *How We Think*](readings/dewey-how-we-think-pg37423.epub)
+- [John Dewey, *Human Nature and Conduct*](readings/dewey-human-nature-and-conduct-pg41386.epub)
+- [John Dewey, *The Influence of Darwin on Philosophy, and Other Essays*](readings/dewey-influence-of-darwin-on-philosophy-pg51525.epub)
+- [John Dewey, *The Public and Its Problems*](readings/dewey-public-and-its-problems-pg71000.epub)
+- [Fyodor Dostoevsky, *Notes from the Underground*](readings/dostoevsky-notes-from-the-underground-pg600.epub), tr. Constance Garnett
+- [Frederick Douglass, *My Bondage and My Freedom*](readings/douglass-my-bondage-and-my-freedom-pg202.epub)
+- [W. E. B. Du Bois, *The Souls of Black Folk*](readings/du-bois-souls-of-black-folk-pg408.epub)
+- [Sigmund Freud, *Civilization and Its Discontents*](readings/freud-civilization-and-its-discontents-pg78221.epub), tr. Joan Riviere
+- [Sigmund Freud, *A General Introduction to Psychoanalysis*](readings/freud-general-introduction-to-psychoanalysis-pg38219.epub), tr. G. Stanley Hall
+- [David Hume, *Hume's Political Discourses*](readings/hume-political-discourses-pg59792.epub)
+- [Thomas Henry Huxley, *Science and Culture, and Other Essays*](readings/huxley-science-and-culture-pg52344.epub)
+- [William James, *The Meaning of Truth*](readings/james-meaning-of-truth-pg5117.epub)
+- [William James, *Pragmatism: A New Name for Some Old Ways of Thinking*](readings/james-pragmatism-pg5116.epub)
+- [William James, *The Principles of Psychology, Volume 1*](readings/james-principles-of-psychology-vol1-pg57628.epub)
+- [William James, *The Varieties of Religious Experience*](readings/james-varieties-of-religious-experience-pg621.epub)
+- [William James, *The Will to Believe, and Other Essays in Popular Philosophy*](readings/james-will-to-believe-pg26659.epub)
+- [Julien Offray de La Mettrie, *Man a Machine*](readings/la-mettrie-man-a-machine-pg52090.epub), tr. Gertrude Carman Bussey
+- [Pierre-Simon Laplace, *A Philosophical Essay on Probabilities*](readings/laplace-philosophical-essay-on-probabilities-pg58881.epub), tr. Frederick Wilson Truscott and Frederick Lincoln Emory
+- [John Locke, *Second Treatise of Government*](readings/locke-second-treatise-of-government-pg7370.epub)
+- [G. E. Moore, *Philosophical Studies*](readings/moore-philosophical-studies-pg50141.epub)
+- [G. E. Moore, *Principia Ethica*](readings/moore-principia-ethica-pg53430.epub)
+- [Charles S. Peirce, *Chance, Love, and Logic: Philosophical Essays (ed. Morris R. Cohen)*](readings/peirce-chance-love-and-logic-pg65274.epub)
+- [Henri Poincaré, *The Foundations of Science*](readings/poincare-foundations-of-science-pg39713.epub), tr. George Bruce Halsted
+- [Jean-Jacques Rousseau, *The Social Contract & Discourses*](readings/rousseau-social-contract-and-discourses-pg46333.epub), tr. G. D. H. Cole
+- [Bertrand Russell, *The Analysis of Mind*](readings/russell-analysis-of-mind-pg2529.epub)
+- [Bertrand Russell, *The Conquest of Happiness*](readings/russell-conquest-of-happiness-pg77894.epub)
+- [Bertrand Russell, *Introduction to Mathematical Philosophy*](readings/russell-introduction-to-mathematical-philosophy-pg41654.epub)
+- [Bertrand Russell, *Mysticism and Logic and Other Essays*](readings/russell-mysticism-and-logic-pg25447.epub)
+- [Bertrand Russell, *Our Knowledge of the External World as a Field for Scientific Method in Philosophy*](readings/russell-our-knowledge-of-the-external-world-pg37090.epub)
+- [Bertrand Russell, *What I Believe*](readings/russell-what-i-believe-pg73782.epub)
+- [Seneca, *Minor Dialogues (including Of the Shortness of Life)*](readings/seneca-minor-dialogues-pg64576.epub), tr. Aubrey Stewart
+- [Henry David Thoreau, *On the Duty of Civil Disobedience*](readings/thoreau-civil-disobedience-pg71.epub)
+- [Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (PDF)](readings/wittgenstein-tractatus-logico-philosophicus-pg5740.pdf), tr. C. K. Ogden
+
+## Part 2 — Required readings to procure yourself
+
+These are still in copyright, or (Anselm in a modern translation, Bentham's *Introduction* and Russell's "On Denoting") public domain but not on Project Gutenberg. The edition named is the one the chapter quotes or recommends; any good edition will do for reading. Each chapter's Required reading block says which sections to read, and its Further reading list adds more. The last rows give modern translations of bundled texts whose Victorian English is hardest going.
+
+| Ch. | Book | Recommended edition |
+|---|---|---|
+| [1](01-what-is-philosophy.md) | Thomas Nagel, *What Does It All Mean? A Very Short Introduction to Philosophy* (1987), the whole book | Oxford University Press |
+| [2](02-logic-and-argument.md) | Anthony Weston, *A Rulebook for Arguments*, the whole book | Hackett, 5th ed. 2017 |
+| [3](03-the-presocratics.md) | G. S. Kirk, J. E. Raven and M. Schofield, *The Presocratic Philosophers*, the chapters on Parmenides and Zeno | Cambridge University Press, 2nd ed. 1983 |
+| [6](06-aristotle.md) | Aristotle, *Physics* Book 2, *Metaphysics* Books 1, 7 and 12, *De Anima* Book 2 chs. 1–3 (Further reading; the chapter quotes these via A. E. Taylor) | Jonathan Barnes (ed.), *The Complete Works of Aristotle: The Revised Oxford Translation* (Princeton University Press, 1984) |
+| [9](09-faith-and-reason.md) | Anselm, *Proslogion* chs. 1–4, with Gaunilo's reply and Anselm's response | Anselm, *Basic Writings*, tr. Thomas Williams (Hackett, 2007); the public-domain Deane translation (1903) is in the Fordham Medieval Sourcebook |
+| [9](09-faith-and-reason.md) | Avicenna, the "flying man" and the essence–existence distinction | Arthur Hyman, James J. Walsh and Thomas Williams (eds.), *Philosophy in the Middle Ages* (Hackett, 3rd ed. 2010) |
+| [9](09-faith-and-reason.md) | William of Ockham, selections on universals and the existence of God | *Philosophical Writings: A Selection*, tr. Philotheus Boehner, rev. Stephen F. Brown (Hackett, 1990) |
+| [10](10-renaissance-and-the-new-science.md) | Giovanni Pico della Mirandola, *Oration on the Dignity of Man*, the opening speech of God to Adam | ed. Francesco Borghesi, Michael Papio and Massimo Riva (Cambridge University Press, 2012) |
+| [10](10-renaissance-and-the-new-science.md) | Galileo, *The Assayer* and the "Letter to the Grand Duchess Christina" | *Discoveries and Opinions of Galileo*, tr. Stillman Drake (Anchor, 1957) |
+| [11](11-descartes-and-the-rationalists.md) | René Descartes, *Meditations on First Philosophy*, all six, with Hobbes's and Arnauld's objections | tr. John Cottingham (Cambridge University Press, 2nd ed. 2017) |
+| [11](11-descartes-and-the-rationalists.md) | Elisabeth of Bohemia and Descartes, letters of May–July 1643 | *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*, ed. and tr. Lisa Shapiro (University of Chicago Press, 2007) |
+| [11](11-descartes-and-the-rationalists.md) | G. W. Leibniz, *Monadology* and *Discourse on Metaphysics* | *Philosophical Essays*, tr. Roger Ariew and Daniel Garber (Hackett, 1989) |
+| [13](13-kant.md) | Immanuel Kant, "An Answer to the Question: What Is Enlightenment?" (1784) in English | Kant, *Practical Philosophy*, tr. Mary J. Gregor (Cambridge University Press, 1996) |
+| [14](14-hegel-marx-and-their-critics.md) | G. W. F. Hegel, *Phenomenology of Spirit*, Preface (¶¶1–37) and "Lordship and Bondage" (¶¶178–196) | tr. Terry Pinkard (Cambridge University Press, 2018) |
+| [14](14-hegel-marx-and-their-critics.md) | G. W. F. Hegel, *Elements of the Philosophy of Right*, Preface | ed. Allen Wood, tr. H. B. Nisbet (Cambridge University Press, 1991) |
+| [14](14-hegel-marx-and-their-critics.md) | Karl Marx, *Economic and Philosophic Manuscripts of 1844*, "Estranged Labour" | Robert C. Tucker (ed.), *The Marx-Engels Reader* (Norton, 2nd ed. 1978) |
+| [15](15-nietzsche.md) | Friedrich Nietzsche, *The Birth of Tragedy*, *Beyond Good and Evil*, *On the Genealogy of Morality*, *Ecce Homo* in modern translation | Walter Kaufmann (ed. and tr.), *Basic Writings of Nietzsche* (Modern Library, 2000); *The Portable Nietzsche* (Penguin) for *Zarathustra* and *Twilight* |
+| [16](16-utilitarianism-and-liberalism.md) | Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation*, chapter 1 and the footnote on animals in chapter 17 | Clarendon Press, 1907 (free scan at the Internet Archive; see [REFERENCES.md](REFERENCES.md#chapter-16--utilitarianism-and-liberalism)) |
+| [17](17-pragmatism.md) | Richard Rorty, *Contingency, Irony, and Solidarity*, Introduction and chapter 4 | Cambridge University Press, 1989 |
+| [17](17-pragmatism.md) | Cheryl Misak, *The American Pragmatists*, chapters 1–4 and 12 | Oxford University Press, 2013 |
+| [18](18-the-analytic-turn.md) | Ludwig Wittgenstein, *Tractatus Logico-Philosophicus*, in a modern translation (the Ogden translation is bundled) | tr. D. F. Pears and B. F. McGuinness (Routledge Classics, 2001) |
+| [18](18-the-analytic-turn.md) | Gottlob Frege, "On Sense and Reference" (1892) | tr. Max Black, in Michael Beaney (ed.), *The Frege Reader* (Blackwell, 1997) |
+| [18](18-the-analytic-turn.md) | Bertrand Russell, "On Denoting" (1905) | *Mind* 14; widely reprinted |
+| [18](18-the-analytic-turn.md) | W. V. O. Quine, "Two Dogmas of Empiricism" (1951) | in *From a Logical Point of View* (Harvard University Press, 1953) |
+| [18](18-the-analytic-turn.md) | Ludwig Wittgenstein, *Philosophical Investigations*, §§1–43, 65–71, 185–202, 243–315 | tr. G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte (Wiley-Blackwell, 4th ed. 2009) |
+| [19](19-phenomenology-and-existentialism.md) | Edmund Husserl, *Cartesian Meditations*, Meditations I–II | tr. Dorion Cairns (Martinus Nijhoff, 1960); or Dan Zahavi, *Phenomenology: The Basics* (Routledge, 2019) |
+| [19](19-phenomenology-and-existentialism.md) | Martin Heidegger, *Being and Time*, §§9, 12, 15–16, 25–27, 40, 46–53 | tr. John Macquarrie and Edward Robinson (Harper & Row, 1962) |
+| [19](19-phenomenology-and-existentialism.md) | Jean-Paul Sartre, *Existentialism Is a Humanism*; *Being and Nothingness*, "Bad Faith" | tr. Carol Macomber (Yale University Press, 2007); tr. Hazel Barnes |
+| [19](19-phenomenology-and-existentialism.md) | Simone de Beauvoir, *The Second Sex*, Introduction and the opening of Volume II | tr. Constance Borde and Sheila Malovany-Chevallier (Knopf, 2010) |
+| [19](19-phenomenology-and-existentialism.md) | Maurice Merleau-Ponty, *Phenomenology of Perception*, Preface | tr. Donald A. Landes (Routledge, 2012) |
+| [20](20-philosophy-of-mind.md) | Thomas Nagel, "What Is It Like to Be a Bat?" (1974) | *Philosophical Review* 83 |
+| [20](20-philosophy-of-mind.md) | Frank Jackson, "Epiphenomenal Qualia" (1982) | *Philosophical Quarterly* 32 |
+| [20](20-philosophy-of-mind.md) | David Chalmers, "Facing Up to the Problem of Consciousness" (1995) | *Journal of Consciousness Studies* 2; free on the author's website |
+| [20](20-philosophy-of-mind.md) | John Searle, "Minds, Brains, and Programs" (1980) | *Behavioral and Brain Sciences* 3 |
+| [20](20-philosophy-of-mind.md) | Derek Parfit, *Reasons and Persons*, Part Three, chapters 10–12 | Oxford University Press, 1984 |
+| [21](21-knowledge-and-science.md) | Edmund Gettier, "Is Justified True Belief Knowledge?" (1963) | *Analysis* 23 |
+| [21](21-knowledge-and-science.md) | Karl Popper, *Conjectures and Refutations*, chapter 1 | Routledge, 1963; Routledge Classics, 2002 |
+| [21](21-knowledge-and-science.md) | Thomas Kuhn, *The Structure of Scientific Revolutions* | University of Chicago Press, 50th anniversary ed. 2012 |
+| [22](22-political-philosophy.md) | John Rawls, *A Theory of Justice*, §§1–4, 11–13, 24–26 (or *Justice as Fairness: A Restatement*, Part I) | Harvard University Press, rev. ed. 1999 |
+| [22](22-political-philosophy.md) | Robert Nozick, *Anarchy, State, and Utopia*, chapter 7, section I | Basic Books, 1974 |
+| [22](22-political-philosophy.md) | Susan Moller Okin, *Justice, Gender, and the Family*, chapters 1 and 5 | Basic Books, 1989 |
+| [22](22-political-philosophy.md) | Charles W. Mills, *The Racial Contract*, chapter 1 | Cornell University Press, 1997 |
+| [23](23-continental-philosophy-today.md) | Max Horkheimer and Theodor W. Adorno, *Dialectic of Enlightenment*, "The Concept of Enlightenment" and "The Culture Industry" | tr. Edmund Jephcott (Stanford University Press, 2002) |
+| [23](23-continental-philosophy-today.md) | Michel Foucault, *Discipline and Punish*, Part One ch. 1 and "Panopticism" | tr. Alan Sheridan (Vintage, 1977) |
+| [23](23-continental-philosophy-today.md) | Jacques Derrida, "Structure, Sign, and Play in the Discourse of the Human Sciences" (1966) | in *Writing and Difference*, tr. Alan Bass (University of Chicago Press, 1978) |
+| [23](23-continental-philosophy-today.md) | Jürgen Habermas, "Discourse Ethics: Notes on a Program of Philosophical Justification" | in *Moral Consciousness and Communicative Action* (MIT Press, 1990) |
+| [24](24-building-a-philosophy-of-life.md) | Pierre Hadot, *Philosophy as a Way of Life*, "Spiritual Exercises" and "Philosophy as a Way of Life" | ed. Arnold I. Davidson, tr. Michael Chase (Blackwell, 1995) |
+| [24](24-building-a-philosophy-of-life.md) | Susan Wolf, *Meaning in Life and Why It Matters*, the first lecture | Princeton University Press, 2010 |
+| [9](09-faith-and-reason.md) | Modern translations of bundled texts: Augustine, *Confessions*; Averroes, *Decisive Treatise* | tr. Henry Chadwick (Oxford World's Classics, 1991); tr. Charles Butterworth (Brigham Young University Press, 2001) |
+| [10](10-renaissance-and-the-new-science.md) | Modern translation: Machiavelli, *The Prince* | tr. Harvey Mansfield (University of Chicago Press, 2nd ed. 1998) |
+| [8](08-classical-india-and-china.md) | Modern translations: Mozi, Mencius, Xunzi, Laozi, Zhuangzi (the chapter quotes Mencius and Xunzi via Giles's 1901 history) | Philip J. Ivanhoe and Bryan W. Van Norden (eds.), *Readings in Classical Chinese Philosophy* (Hackett, 2nd ed. 2005) |
+
+## Part 3 — A graduate-level path
+
+[Chapter 24](24-building-a-philosophy-of-life.md#a-graduate-level-reading-path) sets out a reading path by area (history, logic and language, metaphysics, epistemology and science, mind, ethics, political philosophy, continental philosophy, traditions beyond the Western canon, and philosophy as a way of life), roughly what a first-year doctoral student in a broad program is expected to know. This part adds the tools for working through it: the reference works, the standard anthologies, the journals and a method for reading the secondary literature. For depth in a single area, the sister courses carry their own paths: [Stoicism](../learn-stoicism/16-living-a-stoic-life.md), [ethics](../learn-ethics/appendix-c-reading-list.md) and [nihilism](../learn-nihilism/appendix-c-reading-list.md).
+
+### Reference works (free online)
+
+Read the encyclopedia entry before the monographs: it maps the positions and names the scholars who hold them.
+
+- **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)** (SEP): long, refereed, regularly revised entries by specialists; the single best starting point on any topic. Each entry ends with a bibliography that is itself a reading list. Its archives (plato.stanford.edu/archives/) keep fixed, citable editions of every entry; cite those in your own work.
+- **[Internet Encyclopedia of Philosophy](https://iep.utm.edu/)** (IEP): shorter, peer-reviewed entries, often more introductory; good for figures the SEP covers only briefly.
+- **[PhilPapers](https://philpapers.org/)**: an index of almost the entire professional literature, sorted into thousands of topic categories with curated bibliographies. Its [2020 survey](https://survey2020.philpeople.org/) of 1,785 philosophers shows where the profession stands on the big questions ([Chapter 24](24-building-a-philosophy-of-life.md)).
+- **Peter Adamson's podcast** *History of Philosophy without Any Gaps*: the whole history, including India, China, the Islamic world and Africana philosophy, in short episodes with reading lists.
+
+### Anthologies and handbooks
+
+- John Perry, Michael Bratman and John Martin Fischer (eds.), *Introduction to Philosophy: Classical and Contemporary Readings* (Oxford University Press, frequently revised): the standard survey anthology, and a good bridge from this course.
+- S. Marc Cohen, Patricia Curd and C. D. C. Reeve (eds.), *Readings in Ancient Greek Philosophy: From Thales to Aristotle* (Hackett, 5th ed. 2016).
+- Arthur Hyman, James J. Walsh and Thomas Williams (eds.), *Philosophy in the Middle Ages: The Christian, Islamic, and Jewish Traditions* (Hackett, 3rd ed. 2010).
+- Roger Ariew and Eric Watkins (eds.), *Modern Philosophy: An Anthology of Primary Sources* (Hackett, 3rd ed. 2019), Descartes to Kant.
+- A. P. Martinich and David Sosa (eds.), *The Philosophy of Language* (Oxford University Press, frequently revised).
+- Jaegwon Kim and Ernest Sosa (eds.), *Metaphysics: An Anthology* (Wiley-Blackwell, 2nd ed. 2012), and Ernest Sosa et al. (eds.), *Epistemology: An Anthology* (Wiley-Blackwell, 2nd ed. 2008).
+- David Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings* (Oxford University Press, 2nd ed. 2021).
+- Martin Curd, J. A. Cover and Christopher Pincock (eds.), *Philosophy of Science: The Central Issues* (Norton, 2nd ed. 2013).
+- Robert E. Goodin and Philip Pettit (eds.), *Contemporary Political Philosophy: An Anthology* (Wiley-Blackwell, several editions).
+- Philip J. Ivanhoe and Bryan W. Van Norden (eds.), *Readings in Classical Chinese Philosophy* (Hackett, 2nd ed. 2005), and Sarvepalli Radhakrishnan and Charles A. Moore (eds.), *A Sourcebook in Indian Philosophy* (Princeton University Press, 1957).
+- The *Oxford Handbooks* and *Cambridge Companions* exist for nearly every figure and field in this course; each chapter's Further reading names the relevant one.
+
+### Secondary literature by topic
+
+Chapter 24's path lists the textbooks and modern classics area by area. For the history, add these standard scholarly guides:
+
+- **Ancient:** Gregory Vlastos, *Socrates: Ironist and Moral Philosopher* (Cornell, 1991); Julia Annas, *An Introduction to Plato's Republic* (Oxford, 1981); J. L. Ackrill, *Aristotle the Philosopher* (Oxford, 1981); A. A. Long and D. N. Sedley, *The Hellenistic Philosophers* (Cambridge, 1987).
+- **Medieval and Islamic:** Peter Adamson, *Philosophy in the Islamic World* (Oxford, 2016); John Marenbon, *Medieval Philosophy: A Very Short Introduction* (Oxford, 2016).
+- **Early modern:** Bernard Williams, *Descartes: The Project of Pure Enquiry* (Penguin, 1978); Barry Stroud, *Hume* (Routledge, 1977); Sebastian Gardner, *Kant and the Critique of Pure Reason* (Routledge, 1999).
+- **Nineteenth century:** Frederick Beiser, *Hegel* (Routledge, 2005); Allen W. Wood, *Karl Marx* (Routledge, 2nd ed. 2004); Brian Leiter, *Nietzsche on Morality* (Routledge, 2nd ed. 2015).
+- **Twentieth century:** Scott Soames, *Philosophical Analysis in the Twentieth Century*, 2 vols. (Princeton, 2003); Cheryl Misak, *The American Pragmatists* (Oxford, 2013); Hubert Dreyfus, *Being-in-the-World* (MIT Press, 1991); Gary Gutting, *French Philosophy in the Twentieth Century* (Cambridge, 2001).
+
+### Journals
+
+- General: *The Philosophical Review*, *The Journal of Philosophy*, *Mind*, *Noûs*, *Philosophy and Phenomenological Research*, *Australasian Journal of Philosophy*; *Philosophers' Imprint* and *Ergo* are open access.
+- History: *Phronesis* and *Oxford Studies in Ancient Philosophy*; *Journal of the History of Philosophy*; *British Journal for the History of Philosophy*; *Kant-Studien*.
+- By field: *Philosophy of Science* and *British Journal for the Philosophy of Science*; *Ethics* and *Philosophy & Public Affairs*; *Linguistics and Philosophy*; *Journal of Consciousness Studies*.
+- Continental and comparative: *Continental Philosophy Review*, *Philosophy Today*, *Philosophy East and West*, *Dao: A Journal of Comparative Philosophy*.
+- *Philosophy Compass* publishes short state-of-the-field surveys, the best bridge from an encyclopedia entry to the journal literature. PhilPapers indexes all of these.
+
+### How to read secondary literature
+
+1. **Start with the primary text.** Read the passage yourself first and write down what you think it says. Otherwise you will see only what the commentator sees.
+2. **Map the debate before you join it.** Read the SEP entry and a *Philosophy Compass* survey; note the two or three main positions and who holds them.
+3. **Read for the argument, not the conclusion.** For each article, write the thesis in one sentence, the main argument as numbered premises ([Chapter 2](02-logic-and-argument.md)), and the objection the author takes most seriously.
+4. **Follow the citations both ways.** The bibliography takes you back to the classic papers; PhilPapers and Google Scholar's "cited by" take you forward to the replies. The replies are often where the real debate is.
+5. **Check the translation and the edition.** Scholarship on non-English texts cites standard pagination (Stephanus numbers for Plato, Bekker for Aristotle, A/B for Kant's first *Critique*); learn it, so you can find passages in any edition.
+6. **Write back.** Finish each article by writing the strongest objection you can and the author's best reply. This is the dialogue exercise of every chapter, done at the level of the professional literature.
